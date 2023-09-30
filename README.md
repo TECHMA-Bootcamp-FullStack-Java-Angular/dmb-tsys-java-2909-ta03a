@@ -1,5 +1,5 @@
-<div align="center"><img width="60%"  src="./utils/BootCamp.gif"  alt="Logo BootCamp" /></div>
-
+<div align="center"><img width="75%"  src="./utils/BootCamp.gif"  alt="Logo BootCamp" /></div>
+<hr>
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-3a-orange)  ![Java Version](https://img.shields.io/badge/java-v8-red) ![GitHub repo size](https://img.shields.io/github/repo-size/d-maza/mystrore_back-MEAN) ![GitHub repo licence](https://img.shields.io/github/license/d-maza/mystrore_back-MEAN) 
 
