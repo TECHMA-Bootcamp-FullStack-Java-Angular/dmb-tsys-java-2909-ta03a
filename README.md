@@ -1,6 +1,6 @@
+<div align="center"><img width="60%"  src="./utils/BootCamp.gif"  alt="Logo BootCamp" /></div>
+
   <div style="text-align: center;">
-    <img src="https://wild-consulting.de/wp-content/uploads/2019/11/T-Systems-Logo_2-600x111.png" alt="" width="50%">
-    <h2 style="color:rgb(16, 180, 180) ">Techma & Fundación Esplai</h2>
     <hr>
      Este repositorio contiene las tareas del Bootcamp 👨‍💻
   </div>
